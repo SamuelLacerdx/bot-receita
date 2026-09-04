@@ -1,4 +1,4 @@
-# Bot Receita — Bot de Turismo para Telegram
+# Bot de Turismo para Telegram
 
 Bot para Telegram voltado a turismo, hospedado na **Azure** e utilizando o **Azure AI Foundry** para gerar respostas inteligentes aos usuários.
 
