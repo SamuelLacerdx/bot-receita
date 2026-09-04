@@ -76,4 +76,4 @@ bot-receita/
 
 ## 📌 Versão do projeto
 
-Projeto em desenvolvimento / estudo — novas funcionalidades podem ser adicionadas futuramente.
+Projeto Finalizado.
